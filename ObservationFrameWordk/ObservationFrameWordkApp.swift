@@ -11,7 +11,7 @@ import SwiftUI
 struct ObservationFrameWordkApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HellowView()
         }
     }
 }
